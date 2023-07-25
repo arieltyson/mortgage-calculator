@@ -1,0 +1,5 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled output
+out/
