@@ -3,3 +3,7 @@
 
 # Compiled output
 out/
+
+# Configurations
+*.iml
+
